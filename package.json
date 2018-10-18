@@ -1,0 +1,20 @@
+{
+  "name": "boomerang-contracts",
+  "description": "Smart contracts for the Boomerang platform",
+  "version": "1.0.0",
+  "main": "truffle.js",
+  "scripts": {
+    "compile": "truffle compile",
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BoomerangProject/boomerang-contracts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "openzeppelin-solidity": "^1.12.0"
+  }
+}
